@@ -12,4 +12,4 @@ This repository contains beginner Python projects demonstrating fundamental prog
 ### 2. Simple Calculator
 - Performs basic arithmetic operations (add, subtract, multiply, divide).
 - Concepts used: functions, conditionals, user input.
-- [See Project](simple_calculator/README.md)
+- [See Project](calculator.py)
