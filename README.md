@@ -7,7 +7,7 @@ This repository contains beginner Python projects demonstrating fundamental prog
 ### 1. Word Frequency Counter
 - Counts how many times each word appears in a sentence.
 - Concepts used: dictionaries, loops, string manipulation.
-- [See Project](word_frequency_cal/README.md)
+- [See Project](word_frequency_cal.py)
 
 ### 2. Simple Calculator
 - Performs basic arithmetic operations (add, subtract, multiply, divide).
