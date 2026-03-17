@@ -38,4 +38,5 @@ Where:
 * **t** = Time (in years)
 * **n** = Number of times interest is compounded per year
 * **A** = Final amount
+*  [See Project](word_frequency_cal.py)
 
